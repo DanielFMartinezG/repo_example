@@ -1,0 +1,5 @@
+//MODULOS NODE
+node_modules
+
+//LLAVES
+.env
